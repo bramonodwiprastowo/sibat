@@ -1,0 +1,29 @@
+tdk, tidak
+gempabumi, gempa bumi
+kedlmn, kedalaman
+yg, yang
+mag, magnitudo
+magnitude, magnitudo
+lok, lokasi
+jan, januari
+feb, februari
+mar, maret
+apr, april
+jun, juni
+jul, juli
+aug, agustus
+sep, september
+oct, oktober
+nov, november
+dec, desember
+krn, karena
+brpotensi, berpotensi
+gmp, gempa
+gmpa, gempa
+tlh, telah
+trdetksi, terdeteksi
+trdeteksi, terdeteksi
+diprakirakan, diperkirakan
+prakiraan, perkiraan
+infogempa, info gempa
+prov, provinsi
